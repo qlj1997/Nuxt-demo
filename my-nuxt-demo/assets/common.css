@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 100%;
+    display: block;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
